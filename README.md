@@ -1,31 +1,35 @@
 
-# Dispositivos de Tecnología Corporal — Bitácora Web
+---
+title: Práctica 1 - Pulsera Textil
+parent: Prácticas
+nav_order: 1
+---
 
-Repositorio desarrollado en formato Just the Docs para documentar el contenido del semestre,
-las prácticas realizadas y el proceso del proyecto final de la materia.
+# Práctica 1 — Pulsera Textil Interactiva
 
-## Materia
-Dispositivos de Tecnología Corporal y Laboratorio
+## Objetivo
 
-## Docentes
-- Alma De León Hernández
-- Edgar Adrián León Ruiz
+Diseñar una pulsera textil con hilo conductor y LEDs.
 
-## Integrantes
-- Martha Valdés
-- Nahomi Cruz
-- Annette Cunillé
+## Requisitos técnicos
 
-## Contenido
-- Temas del semestre
-- Prácticas
-- Proyecto final
-- Evidencias
-- Código
-- Diagramas
-- Conclusiones
+- 5 LEDs
+- Hilo conductor
+- Encendido al cerrar la pulsera
 
-## Tecnologías
-- GitHub Pages
-- Just the Docs
-- Markdown
+## Materiales
+
+Agregar lista de materiales.
+
+## Proceso
+
+Agregar explicación del proceso.
+
+## Evidencias
+
+Colocar fotografías y videos.
+
+## Código
+
+Agregar código si aplica.
+

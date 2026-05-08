@@ -1,13 +1,25 @@
 
-# Publicar en GitHub Pages
+---
+title: Electrónica Portable
+parent: Temas del Semestre
+nav_order: 4
+---
 
-1. Crear repositorio en GitHub
-2. Subir todos los archivos
-3. Ir a Settings > Pages
-4. Source:
-   Deploy from branch
-5. Branch:
-   main / root
-6. Guardar
+# Electrónica para Sistemas Portables
 
-El sitio quedará disponible automáticamente.
+## Contenido
+
+- Tarjetas de desarrollo
+- Alimentación
+- Baterías
+- Sensores
+- LEDs
+- Neopixels
+- Actuadores
+
+## Componentes utilizados
+
+- XIAO ESP32 S3
+- Servomotores
+- Sensor táctil
+

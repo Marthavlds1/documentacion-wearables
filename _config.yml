@@ -1,25 +1,20 @@
-title: Dispositivos de Tecnología Corporal
-description: Bitácora Web - Primavera 2026
 
-theme: just-the-docs
+---
+title: Técnicas de Manufactura
+parent: Temas del Semestre
+nav_order: 3
+---
 
-url: https://marthavlds1.github.io
-baseurl: "/documentacion-wearables"
+# Técnicas de Manufactura
 
-aux_links:
-  Repositorio en GitHub:
-    - https://github.com/Marthavlds1/documentacion-wearables
+## Contenido
 
-color_scheme: dark
+- Bordado
+- Serigrafía
+- Corte en vinil
+- Impresión 3D sobre textiles
 
-nav_enabled: true
-search_enabled: true
-heading_anchors: true
+## Evidencias
 
-back_to_top: true
-back_to_top_text: "Volver arriba"
+Agregar fotografías del proceso.
 
-footer_content: "Universidad Iberoamericana · Dispositivos de Tecnología Corporal · Primavera 2026"
-
-plugins:
-  - jekyll-seo-tag

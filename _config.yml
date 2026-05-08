@@ -1,0 +1,16 @@
+
+title: Dispositivos de Tecnología Corporal
+description: Bitácora Web - Primavera 2026
+theme: just-the-docs
+
+url: https://TU-USUARIO.github.io/TU-REPOSITORIO
+
+aux_links:
+  Repositorio en GitHub:
+    - https://github.com/TU-USUARIO/TU-REPOSITORIO
+
+color_scheme: dark
+
+nav_enabled: true
+search_enabled: true
+heading_anchors: true

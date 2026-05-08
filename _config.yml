@@ -1,9 +1,10 @@
 title: Dispositivos de Tecnología Corporal
 description: Bitácora Web - Primavera 2026
+
 theme: just-the-docs
 
 url: https://marthavlds1.github.io
-baseurl: /documentacion-wearables
+baseurl: "/documentacion-wearables"
 
 aux_links:
   Repositorio en GitHub:
@@ -14,7 +15,11 @@ color_scheme: dark
 nav_enabled: true
 search_enabled: true
 heading_anchors: true
+
 back_to_top: true
 back_to_top_text: "Volver arriba"
 
 footer_content: "Universidad Iberoamericana · Dispositivos de Tecnología Corporal · Primavera 2026"
+
+plugins:
+  - jekyll-seo-tag

@@ -49,15 +49,6 @@ La experiencia busca generar impacto visual y transmitir al espectador una sensa
 
 ## Imágenes de referencia / mood board
 
-> 📁 Agrega aquí tus imágenes de inspiración y mood board.
-
-```
-📁 assets/img/proyecto-final/concepto/
-   └── moodboard.jpg
-   └── inspiracion-01.jpg
-   └── inspiracion-02.jpg
-```
-
-```markdown
-![Mood board]({{ '/assets/img/proyecto-final/concepto/moodboard.jpg' | relative_url }})
-```
+> ![alt text](../assets/img/concepto1.png)
+>![alt text](../assets/img/concepto2.png)
+>![alt text](../assets/img/concepto3.png)

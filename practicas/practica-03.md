@@ -43,7 +43,7 @@ Durante esta práctica se realizaron diferentes puntadas de bordado siguiendo la
 
 ### Bordado
 
-> ✏️ Durante la práctica se realizaron distintos tipos de puntadas de bordado siguiendo las demostraciones de la profesora. El objetivo fue desarrollar precisión manual, controlar la tensión del hilo y conocer diferentes técnicas de decoración textil.
+Durante la práctica se realizaron distintos tipos de puntadas de bordado siguiendo las demostraciones de la profesora. El objetivo fue desarrollar precisión manual, controlar la tensión del hilo y conocer diferentes técnicas de decoración textil.
 
 **Material utilizado:**
 - Hilo de bordar
@@ -58,17 +58,13 @@ Durante esta práctica se realizaron diferentes puntadas de bordado siguiendo la
 5. Se revisaron los acabados para mejorar la precisión y limpieza del trabajo.
 
 **Evidencia fotográfica:**
-```text
-📁 assets/img/practica-03/
-   ├── bordado1.jpg
-   ├── bordado2.jpg
-   └── bordado3.jpg
+>
 
 ## Técnica de estampado
 
 Durante esta práctica también se realizó un proceso de estampado textil utilizando moldes previamente preparados por la profesora. El objetivo fue aprender una técnica sencilla para transferir diseños decorativos a la tela mediante la aplicación de pintura textil y su posterior fijación con calor.
 
-> ✏️ En la actividad de estampado se utilizaron moldes ya preparados. Sobre ellos se aplicó pintura textil y posteriormente se utilizó una pistola de calor para secar y fijar el diseño sobre la tela.
+En la actividad de estampado se utilizaron moldes ya preparados. Sobre ellos se aplicó pintura textil y posteriormente se utilizó una pistola de calor para secar y fijar el diseño sobre la tela.
 
 **Técnica:** Estampado con molde y pintura textil  
 
@@ -88,7 +84,4 @@ Durante esta práctica también se realizó un proceso de estampado textil utili
 6. Se verificó que el diseño quedara uniforme y bien adherido a la tela.
 
 **Evidencia fotográfica:**
-```text
-📁 assets/img/practica-03/
-   ├── estampado1.jpg
-   └── estampado2.jpg
+>

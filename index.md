@@ -41,9 +41,9 @@ La asignatura busca que los alumnos entiendan los procesos de modelación y cara
 
 | Sección | Descripción |
 |---|---|
-| [📚 Temas del Semestre](temas/) | Bloques temáticos vistos en clase |
-| [🔧 Prácticas](practicas/) | Prácticas de laboratorio realizadas |
-| [🎓 Proyecto Final](proyecto-final/) | Wearable Avant Garde — Dossier técnico completo |
+| [Temas del Semestre](temas/) | Bloques temáticos vistos en clase |
+| [Prácticas](practicas/) | Prácticas de laboratorio realizadas |
+| [Proyecto Final](proyecto-final/) | Wearable Avant Garde — Dossier técnico completo |
 
 ---
 

@@ -125,7 +125,6 @@ Finalmente, se añadieron decoraciones florales y detalles de color para reforza
 
 > ![alt text](../assets/img/p24.jpeg)
 
-> <video controls width="100%" src="/assets/img/p25.mp4"></video>
 ---
 
 ## 6. Conclusiones

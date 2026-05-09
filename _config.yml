@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-url: "https://TU_USUARIO.github.io"
+url: "https://marthavlds1.github.io/documentacion-wearables/"
 baseurl: "/wearables-bitacora"
 
 just_the_docs:
@@ -20,7 +20,7 @@ search:
 
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/TU_USUARIO/wearables-bitacora"
+    - "https://marthavlds1.github.io/documentacion-wearables/"
 
 permalink: pretty
 

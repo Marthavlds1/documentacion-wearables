@@ -58,7 +58,8 @@ Durante la práctica se realizaron distintos tipos de puntadas de bordado siguie
 5. Se revisaron los acabados para mejorar la precisión y limpieza del trabajo.
 
 **Evidencia fotográfica:**
->
+
+>![alt text](../assets/img/bordado.jpeg)
 
 ## Técnica de estampado
 
@@ -84,4 +85,6 @@ En la actividad de estampado se utilizaron moldes ya preparados. Sobre ellos se 
 6. Se verificó que el diseño quedara uniforme y bien adherido a la tela.
 
 **Evidencia fotográfica:**
->
+
+>![alt text](../assets/img/estampado.jpeg)
+>![alt text](../assets/img/estampado2.jpeg)

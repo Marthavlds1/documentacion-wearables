@@ -28,7 +28,11 @@ nav_order: 5
 
 ## Video — Demostración de funcionamiento
 
-<video controls src="../assets/img/videofinal.mp4" title="Title"></video>
+<video controls width="640">
+  <source src="../assets/img/videofinal.mp4" type="video/mp4">
+  Tu navegador no soporta el formato de video.
+</video>
+
 
 ---
 

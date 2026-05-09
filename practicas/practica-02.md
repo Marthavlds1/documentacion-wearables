@@ -103,7 +103,6 @@ void loop() {
   }
 }
 ```
-
 ---
 
 ## 4. Proceso de manufactura
@@ -125,9 +124,10 @@ Finalmente, se añadieron decoraciones florales y detalles de color para reforza
 ## 5. Evidencia
 
 > ![alt text](../assets/img/p24.jpeg)
-> <video controls src="../assets/img/p25.mp4" title="Title"></video>
-
-
+> <video controls width="100%">
+  <source src="../assets/img/p25.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 
 ---
 

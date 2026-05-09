@@ -1,5 +1,5 @@
 title: Dispositivos de Tecnología Corporal
-description: Bitácora web del curso IE115 — Primavera 2026 | Universidad Iberoamericana
+description: Bitácora web del curso — Primavera 2026 | Universidad Iberoamericana
 
 remote_theme: just-the-docs/just-the-docs
 plugins:
@@ -7,7 +7,7 @@ plugins:
   - jekyll-seo-tag
 
 url: "https://marthavlds1.github.io/documentacion-wearables/"
-baseurl: "/wearables-bitacora"
+baseurl: "/documentacion-wearables"
 
 just_the_docs:
   custom_css:

@@ -111,13 +111,13 @@ void loop() {
 
 ## 4. Proceso de manufactura
 
-> ✏️ _Describe el proceso de fabricación, materiales y las iteraciones del diseño._
+El proceso de manufactura inició con el corte del listón textil a la medida de la muñeca. Posteriormente, se marcaron las posiciones de los cinco LEDs y del hilo conductor, definiendo las trayectorias para las conexiones eléctricas.
 
-```
-📁 assets/img/practica-02/
-   └── proceso-01.jpg
-   └── prototipo-final.jpg
-```
+A continuación, se cosieron los LEDs y las resistencias utilizando técnicas de bordado y costura con hilo conductor, asegurando que cada componente quedara firmemente sujeto al textil. También se integraron las conexiones hacia el microcontrolador XIAO ESP32S3 y la fuente de alimentación.
+
+Una vez completado el ensamblaje, se programó el microcontrolador para ejecutar una secuencia de encendido y apagado de los LEDs con un patrón rítmico y repetitivo. Se realizaron pruebas para verificar que el sistema iniciara correctamente al cerrar la pulsera y que la secuencia se ejecutara de manera continua.
+
+Finalmente, se añadieron decoraciones florales y detalles de color para reforzar la temática del EDC 2025, logrando una pulsera funcional, cómoda y visualmente atractiva.
 
 ---
 
@@ -135,4 +135,10 @@ void loop() {
 
 ## 6. Conclusiones
 
-> ✏️ _Reflexión sobre el proceso, los aprendizajes y las mejoras posibles._
+Esta práctica permitió profundizar en la integración de diseño textil, programación y electrónica embebida. El uso del microcontrolador XIAO ESP32S3 hizo posible crear una interacción más compleja, ya que los LEDs pudieron encenderse en secuencia y generar un efecto dinámico que simulaba el ritmo de la música electrónica.
+
+Uno de los aprendizajes más importantes fue la necesidad de coordinar el diseño estético con la arquitectura electrónica y la programación, asegurando que todos los elementos funcionaran correctamente sin afectar la comodidad ni la flexibilidad de la pulsera.
+
+La inspiración en la temática floral del EDC 2025 aportó una identidad visual clara y coherente, permitiendo desarrollar un accesorio que combinó tecnología, moda y creatividad. La decoración con flores y colores vibrantes, junto con la secuencia luminosa, logró transmitir la atmósfera festiva y energética del evento.
+
+En conclusión, la práctica cumplió exitosamente con los objetivos establecidos, demostrando que es posible diseñar wearables interactivos que integren electrónica, textiles y programación para crear experiencias visuales atractivas y funcionales.

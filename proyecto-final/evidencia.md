@@ -27,25 +27,8 @@ nav_order: 5
 
 ### Implementación electrónica
 
-```markdown
-![Conexiones electrónicas]({{ '/assets/img/proyecto-final/evidencia/electronica.jpg' | relative_url }})
-*Conexión del XIAO ESP32 S3 con los servomotores y sensor táctil.*
-
-![Sistema de hilos]({{ '/assets/img/proyecto-final/evidencia/hilos.jpg' | relative_url }})
-*Integración de los hilos de tensión entre las capas de organza.*
-```
-
-### Ensamble final
-
-```markdown
-![Prenda ensamblada — frente]({{ '/assets/img/proyecto-final/evidencia/frente.jpg' | relative_url }})
-*Vista frontal de la prenda completamente ensamblada.*
-
-![Prenda ensamblada — detalle]({{ '/assets/img/proyecto-final/evidencia/detalle.jpg' | relative_url }})
-*Detalle de la estructura superior con organza.*
-```
-
----
+>
+>
 
 ## Video — Demostración de funcionamiento
 

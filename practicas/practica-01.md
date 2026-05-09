@@ -44,7 +44,7 @@ Diseñar y construir una pulsera textil que integre materiales conductivos y com
 
 ## 1. Concepto
 
-> El concepto de diseño de esta práctica consistió en crear una pulsera textil interactiva inspirada en la estética del festival de música electrónica Electric Daisy Carnival (EDC). La intención fue diseñar un accesorio wearable que evocara la atmósfera nocturna, colorida y luminosa característica de este evento, en el que las luces y los elementos decorativos forman parte fundamental de la experiencia visual.
+El concepto de diseño de esta práctica consistió en crear una pulsera textil interactiva inspirada en la estética del festival de música electrónica Electric Daisy Carnival (EDC). La intención fue diseñar un accesorio wearable que evocara la atmósfera nocturna, colorida y luminosa característica de este evento, en el que las luces y los elementos decorativos forman parte fundamental de la experiencia visual.
 
 La pulsera fue concebida como un complemento llamativo y funcional que, al colocarse en la muñeca y cerrarse, encendiera automáticamente cinco LEDs de distintos colores. Estos LEDs simbolizan las luces vibrantes y los efectos visuales presentes en los escenarios del festival. Para reforzar esta idea, se utilizó tela satinada de color azul oscuro como recubrimiento exterior, representando el cielo nocturno, y se añadieron flores elaboradas con tela de tul que difuminaban la luz de los LEDs y aportaban un aspecto ornamental y festivo.
 
@@ -54,7 +54,7 @@ El resultado buscó combinar tecnología, moda y expresión estética, integrand
 
 ## 2. Metodología de diseño
 
-> El desarrollo de la pulsera siguió una metodología de diseño basada en la definición de una experiencia visual y en la integración entre materiales textiles y componentes electrónicos.
+El desarrollo de la pulsera siguió una metodología de diseño basada en la definición de una experiencia visual y en la integración entre materiales textiles y componentes electrónicos.
 
 En primer lugar, se estableció la intención de diseño tomando como referencia la estética del festival EDC, caracterizada por luces multicolores, decoración llamativa y una ambientación nocturna. A partir de esta inspiración, se determinó que la pulsera debía encenderse automáticamente al cerrarse sobre la muñeca, generando un efecto luminoso inmediato.
 
@@ -73,7 +73,7 @@ Finalmente, se integró la parte estética recubriendo la estructura con tela sa
 
 ## 3. Proceso de manufactura
 
-> El proceso de manufactura inició con el corte de una tira de material tipo foami o esponja con las dimensiones adecuadas para ajustarse cómodamente a la muñeca. En esta base se realizaron cavidades para alojar los cinco LEDs y sus resistencias, de manera que los componentes quedaran protegidos y firmemente sujetos.
+El proceso de manufactura inició con el corte de una tira de material tipo foami o esponja con las dimensiones adecuadas para ajustarse cómodamente a la muñeca. En esta base se realizaron cavidades para alojar los cinco LEDs y sus resistencias, de manera que los componentes quedaran protegidos y firmemente sujetos.
 
 Posteriormente, se colocaron dos tiras de cinta conductora magnética a lo largo de la pulsera: una para la línea positiva y otra para tierra. Cada LED fue conectado en paralelo mediante su resistencia correspondiente, uniendo sus terminales a las tiras conductoras.
 
@@ -108,4 +108,9 @@ Como etapa final, se realizaron pruebas de ajuste, comodidad y funcionamiento, c
 
 ## 5. Conclusiones
 
-> El desarrollo de esta práctica permitió integrar conocimientos de diseño textil y electrónica básica en un solo producto funcional. A través de la elaboración de la pulsera interactiva, fue posible comprender cómo los materiales conductores y los componentes electrónicos pueden incorporarse a un accesorio wearable sin comprometer su comodidad ni su apariencia estética.
+El desarrollo de esta práctica permitió integrar conocimientos de diseño textil y electrónica básica en un solo producto funcional. A través de la elaboración de la pulsera interactiva, fue posible comprender cómo los materiales conductores y los componentes electrónicos pueden incorporarse a un accesorio wearable sin comprometer su comodidad ni su apariencia estética.
+Uno de los principales aprendizajes fue la importancia de planear cuidadosamente la distribución de los LEDs, resistencias y líneas conductoras para asegurar un funcionamiento confiable. El uso de un material tipo foami como estructura interna facilitó la integración de los componentes y ayudó a mantener la flexibilidad de la pulsera. Asimismo, el sistema de cierre con imanes demostró ser una solución práctica, ya que permitió utilizar el propio broche como interruptor para encender automáticamente el circuito al colocar la pulsera.
+
+Desde el punto de vista del diseño, la inspiración en el festival Electric Daisy Carnival (EDC) permitió desarrollar un accesorio con una identidad visual clara y atractiva. La combinación de tela satinada azul oscuro y flores de tul logró ocultar los componentes electrónicos y al mismo tiempo generar un efecto luminoso decorativo que reforzó el concepto de luces nocturnas y ambiente festivo.
+
+En conclusión, la práctica cumplió satisfactoriamente con los objetivos planteados, demostrando que es posible combinar tecnología, creatividad y diseño textil para crear dispositivos interactivos funcionales y estéticamente expresivos.

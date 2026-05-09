@@ -57,11 +57,3 @@ Microcontroladores compactos adecuados para wearables:
 
 ---
 
-## Material de referencia
-
-> Agrega aquí tus notas de clase, diagramas de circuitos y esquemáticos.
-
-```
-📁 assets/img/bloque-03/
-   └── [agrega tus imágenes aquí]
-```

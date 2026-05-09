@@ -95,12 +95,4 @@ async function connectBLE() {
 
 ---
 
-## Material de referencia
 
-> Agrega aquí tus notas, capturas de pantalla de apps y evidencias.
-
-```
-📁 assets/img/bloque-06/
-📁 assets/img/bloque-07/
-   └── [agrega tus imágenes aquí]
-```

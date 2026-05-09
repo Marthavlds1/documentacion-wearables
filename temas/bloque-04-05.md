@@ -123,12 +123,4 @@ void loop() {
 
 ---
 
-## Material de referencia
 
-> Agrega aquí tus notas, esquemáticos y evidencias de laboratorio.
-
-```
-📁 assets/img/bloque-04/
-📁 assets/img/bloque-05/
-   └── [agrega tus imágenes aquí]
-```

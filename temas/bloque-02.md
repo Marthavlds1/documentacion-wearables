@@ -88,11 +88,4 @@ Metodología centrada en el usuario con 5 etapas:
 
 ---
 
-## Material de referencia
 
-> Agrega aquí tus notas, imágenes de muestras de materiales y evidencias.
-
-```
-📁 assets/img/bloque-02/
-   └── [agrega tus imágenes aquí]
-```

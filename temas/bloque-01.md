@@ -53,11 +53,3 @@ El diseño de wearables parte de una perspectiva **biomecatrónica**: la integra
 
 ## Material de referencia
 
-> Coloca aquí tus notas de clase, presentaciones o imágenes.
-
-```
-📁 assets/img/bloque-01/
-   └── [agrega tus imágenes aquí]
-📁 assets/files/
-   └── [agrega tus presentaciones aquí]
-```

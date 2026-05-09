@@ -124,11 +124,10 @@ Finalmente, se añadieron decoraciones florales y detalles de color para reforza
 ## 5. Evidencia
 
 > ![alt text](../assets/img/p24.jpeg)
-> <video controls width="100%">
-  <source src="../assets/img/p25.mp4" type="video/mp4">
+> <video controls autoplay muted loop width="100%">
+  <source src="/assets/img/p25.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
-
 ---
 
 ## 6. Conclusiones

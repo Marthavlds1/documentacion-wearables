@@ -1,0 +1,31 @@
+title: Dispositivos de Tecnología Corporal
+description: Bitácora web del curso IE115 — Primavera 2026 | Universidad Iberoamericana
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+url: "https://TU_USUARIO.github.io"
+baseurl: "/wearables-bitacora"
+
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
+  footer_content: ""
+
+search_enabled: true
+search:
+  heading_level: 2
+
+aux_links:
+  "Repositorio en GitHub":
+    - "https://github.com/TU_USUARIO/wearables-bitacora"
+
+permalink: pretty
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor"

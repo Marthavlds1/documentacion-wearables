@@ -12,8 +12,6 @@ nav_order: 5
 
 ## Fotos del proceso
 
-> 📁 Agrega tus fotos del proceso de construcción en `assets/img/proyecto-final/evidencia/` y referencia cada una con el formato de ejemplo abajo.
-
 ### Proceso de manufactura
 
 ```markdown
@@ -51,49 +49,18 @@ nav_order: 5
 
 ## Video — Demostración de funcionamiento
 
-> Reemplaza `TU_VIDEO_ID` con el ID de tu video de YouTube.
-
-<div class="responsive-embed">
-  <iframe src="https://www.youtube.com/embed/TU_VIDEO_ID" allowfullscreen></iframe>
-</div>
-
-*Video demostrando la activación del sensor táctil y el movimiento de apertura de la prenda.*
+<video controls src="../assets/img/videofinal.mp4" title="Title"></video>
 
 ---
 
 ## Fotos — Pasarela final
 
-```markdown
-![Pasarela 1]({{ '/assets/img/proyecto-final/evidencia/pasarela-01.jpg' | relative_url }})
-*Presentación en pasarela final.*
-
-![Pasarela 2]({{ '/assets/img/proyecto-final/evidencia/pasarela-02.jpg' | relative_url }})
-*Detalle del movimiento durante la performance.*
-```
+>![alt text](../assets/img/pasarela.jpeg)
 
 ---
 
-## Video — Pasarela
+## Presentación Final 
 
-<div class="responsive-embed">
-  <iframe src="https://www.youtube.com/embed/TU_VIDEO_PASARELA_ID" allowfullscreen></iframe>
-</div>
+>![alt text](../assets/img/presentacionfinal.png)
 
 ---
-
-## Instrucciones para agregar tus imágenes
-
-1. Coloca tus fotos en la carpeta:  
-   `assets/img/proyecto-final/evidencia/`
-
-2. Referencia cada foto en esta página con:
-```markdown
-![Descripción]({{ '/assets/img/proyecto-final/evidencia/nombre-archivo.jpg' | relative_url }})
-```
-
-3. Para videos de YouTube, usa el formato:
-```html
-<div class="responsive-embed">
-  <iframe src="https://www.youtube.com/embed/VIDEO_ID" allowfullscreen></iframe>
-</div>
-```

@@ -28,8 +28,10 @@ nav_order: 5
 
 ## Video — Demostración de funcionamiento
 
-<video controls width="640">
-  <source src="../assets/img/videofinal.mp4" type="video/mp4">
+
+
+<video controls width="720">
+  <source src="/documetacion/wearables/assets/img/videofinal.mp4" type="video/mp4">
   Tu navegador no soporta el formato de video.
 </video>
 

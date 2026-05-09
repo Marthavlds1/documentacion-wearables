@@ -6,11 +6,6 @@ nav_order: 3
 ---
 
 # Práctica 3: Bordado y Estampado
-{: .fs-7 }
-
-**4 puntos** | Reporte individual por cada integrante
-{: .label .label-red }
-
 ---
 
 ## Descripción

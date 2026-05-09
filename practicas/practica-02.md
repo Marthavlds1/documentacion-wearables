@@ -125,6 +125,11 @@ Finalmente, se añadieron decoraciones florales y detalles de color para reforza
 
 > ![alt text](../assets/img/p24.jpeg)
 
+<video controls width="720">
+  <source src="{{ '/assets/img/p25.mp4' | relative_url }}" type="video/mp4">
+  Tu navegador no soporta el formato de video.
+</video>
+
 ---
 
 ## 6. Conclusiones

@@ -20,7 +20,7 @@ El sistema funciona mediante la lectura de un sensor táctil oculto en la mano d
 
 ## Diagrama de flujo
 
->![alt text](<../assets/img/flujjo.png>)
+>![alt text](<../assets/img/flujjo.png)
 
 ---
 

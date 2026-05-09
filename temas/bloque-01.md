@@ -51,5 +51,5 @@ El diseño de wearables parte de una perspectiva **biomecatrónica**: la integra
 
 ---
 
-## Material de referencia
+
 

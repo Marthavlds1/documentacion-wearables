@@ -98,15 +98,9 @@ Como etapa final, se realizaron pruebas de ajuste, comodidad y funcionamiento, c
 
 ### Proceso paso a paso
 
-> Agrega aquí las fotos del proceso de construcción.
-
-```
-📁 assets/img/practica-01/
-   └── proceso-01.jpg
-   └── proceso-02.jpg
-   └── resultado.jpg
-```
-
+> ![alt text](../assets/img/p11.jpeg)
+> ![alt text](../assets/img/p12.jpeg)
+> ![alt text](../assets/img/p13.jpeg)
 ---
 
 ## 4. Evidencia

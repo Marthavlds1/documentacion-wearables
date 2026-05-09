@@ -20,36 +20,7 @@ El sistema funciona mediante la lectura de un sensor táctil oculto en la mano d
 
 ## Diagrama de flujo
 
-```
-┌─────────────────────┐
-│   Inicio del sistema │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Lectura Sensor Táctil│
-└──────────┬──────────┘
-           ▼
-     ┌─────────────┐
-     │ ¿Activado?  │──── NO ────▶ Espera
-     └──────┬──────┘
-            │ SÍ
-            ▼
-┌─────────────────────┐
-│   Activar servos     │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│   Giro — Tensar tela │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│   Regresar posición  │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Esperar nueva activ. │
-└─────────────────────┘
-```
+>![alt text](<../assets/img/flujjo.png>)
 
 ---
 
@@ -57,7 +28,7 @@ El sistema funciona mediante la lectura de un sensor táctil oculto en la mano d
 
 ```cpp
 /*
- * ============================================================
+ * =================o=========================================
  * Wearable Diseño Avant Garde
  * Dispositivos de Tecnología Corporal — IE115
  * Universidad Iberoamericana — Primavera 2026
@@ -202,11 +173,3 @@ Para compilar este código en Arduino IDE, instala la librería:
 
 ---
 
-## Archivos de código
-
-> Descarga el archivo `.ino` desde aquí:
-
-```
-📁 assets/files/
-   └── wearable_avant_garde.ino
-```

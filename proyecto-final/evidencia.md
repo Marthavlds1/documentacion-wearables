@@ -14,21 +14,17 @@ nav_order: 5
 
 ### Proceso de manufactura
 
-```markdown
-![Termoformado de PVC]({{ '/assets/img/proyecto-final/evidencia/pvc.jpg' | relative_url }})
-*Proceso de termoformado del cinturón estructural de PVC.*
+>![alt text](../assets/img/pvc.png)
 
-![Arco de alambre]({{ '/assets/img/proyecto-final/evidencia/arco.jpg' | relative_url }})
-*Construcción de las estructuras semicirculares con alambre galvanizado.*
+>![alt text](../assets/img/pcv2.png)
 
-![Pintado estructura]({{ '/assets/img/proyecto-final/evidencia/pintura.jpg' | relative_url }})
-*Acabado negro en aerosol sobre toda la estructura.*
-```
+>
 
 ### Implementación electrónica
 
->
->
+>![alt text](../assets/img/electronica.png)
+
+>![alt text](../assets/img/electronica2.png)
 
 ## Video — Demostración de funcionamiento
 

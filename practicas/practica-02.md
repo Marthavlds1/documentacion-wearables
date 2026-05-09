@@ -64,10 +64,7 @@ Finalmente, se incorporaron elementos decorativos florales y acabados textiles q
 
 ### Diagrama del circuito
 
-```
-📁 assets/img/practica-02/
-   └── arquitectura.png
-```
+> ![alt text](../assets/img/circuito2.jpeg)
 
 ---
 

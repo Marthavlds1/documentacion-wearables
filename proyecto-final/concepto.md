@@ -50,5 +50,7 @@ La experiencia busca generar impacto visual y transmitir al espectador una sensa
 ## Imágenes de referencia / mood board
 
 > ![alt text](../assets/img/concepto1.png)
+
 >![alt text](../assets/img/concepto2.png)
+
 >![alt text](../assets/img/concepto3.png)

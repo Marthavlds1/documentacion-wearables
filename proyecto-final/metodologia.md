@@ -108,10 +108,4 @@ Complementariamente, se aplicaron las fases de la metodología de diseño de ing
 
 ## Imágenes de arquitectura
 
-> 📁 Agrega aquí el diagrama de arquitectura y bocetos técnicos.
-
-```
-📁 assets/img/proyecto-final/arquitectura/
-   └── diagrama-electronico.png
-   └── boceto-estructura.jpg
-```
+> ![alt text](../assets/img/image.png)

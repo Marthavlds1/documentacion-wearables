@@ -109,9 +109,3 @@ Como etapa final, se realizaron pruebas de ajuste, comodidad y funcionamiento, c
 ## 5. Conclusiones
 
 > El desarrollo de esta práctica permitió integrar conocimientos de diseño textil y electrónica básica en un solo producto funcional. A través de la elaboración de la pulsera interactiva, fue posible comprender cómo los materiales conductores y los componentes electrónicos pueden incorporarse a un accesorio wearable sin comprometer su comodidad ni su apariencia estética.
-
-Uno de los principales aprendizajes fue la importancia de planear cuidadosamente la distribución de los LEDs, resistencias y líneas conductoras para asegurar un funcionamiento confiable. El uso de un material tipo foami como estructura interna facilitó la integración de los componentes y ayudó a mantener la flexibilidad de la pulsera. Asimismo, el sistema de cierre con imanes demostró ser una solución práctica, ya que permitió utilizar el propio broche como interruptor para encender automáticamente el circuito al colocar la pulsera.
-
-Desde el punto de vista del diseño, la inspiración en el festival Electric Daisy Carnival (EDC) permitió desarrollar un accesorio con una identidad visual clara y atractiva. La combinación de tela satinada azul oscuro y flores de tul logró ocultar los componentes electrónicos y al mismo tiempo generar un efecto luminoso decorativo que reforzó el concepto de luces nocturnas y ambiente festivo.
-
-En conclusión, la práctica cumplió satisfactoriamente con los objetivos planteados, demostrando que es posible combinar tecnología, creatividad y diseño textil para crear dispositivos interactivos funcionales y estéticamente expresivos.

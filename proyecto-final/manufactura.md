@@ -23,11 +23,7 @@ Inicialmente se planteó utilizar una **bomba de aire** que inflara la tela para
 
 **Decisión:** replantear el sistema hacia tensión textil mediante servomotores e hilos.
 
-> 📁 Agrega bocetos iniciales:
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── boceto-inicial.jpg
-```
+> ![alt text](../assets/img/boceto.png)
 
 ---
 
@@ -37,10 +33,7 @@ La primera versión de la estructura fue construida con **varillas metálicas** 
 
 **Problema:** el sistema resultaba demasiado flexible y no mantenía la forma requerida para soportar el movimiento.
 
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── estructura-v1.jpg
-```
+>![alt text](../assets/img/estructura.png)
 
 ---
 
@@ -58,13 +51,9 @@ La primera versión de la estructura fue construida con **varillas metálicas** 
 
 **Acabado:** toda la estructura fue pintada con **aerosol negro** para evitar que el color del PVC y el alambre fueran visibles a través de la tela translúcida.
 
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── pvc-termoformado.jpg
-   └── arco-alambre.jpg
-   └── pintado-negro.jpg
-```
+>![alt text](../assets/img/pvc.png)
 
+>![alt text](../assets/img/pcv2.png)
 ---
 
 ## Sistema mecánico y movimiento
@@ -79,11 +68,9 @@ Después de descartar el sistema neumático, se desarrolló una solución basada
 ### Objetivo del movimiento
 Provocar una apertura progresiva de la estructura superior, **revelando parcialmente el rostro** del usuario como representación simbólica de liberación y expresión emocional.
 
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── sistema-hilos.jpg
-   └── detalle-mecanico.jpg
-```
+>![alt text](../assets/img/mecanico1.png)
+
+>![alt text](../assets/img/mecanico2.png)
 
 ---
 
@@ -98,13 +85,6 @@ Inicialmente se utilizaron servomotores estándar de 180°.
 **Solución de emergencia:** reemplazo por **servomotores de rotación continua 360°**, programados para simular el comportamiento de apertura y retorno.
 
 **Resultado:** mejor continuidad del movimiento y mayor resistencia a la tensión del sistema textil.
-
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── servos-360.jpg
-   └── prueba-electronica.jpg
-```
-
 ---
 
 ## Integración y ensamble final
@@ -119,9 +99,4 @@ Se realizaron pruebas con la prenda completamente ensamblada verificando:
 - ✅ Estabilidad estructural
 - ✅ Respuesta del sistema mecánico durante movimiento corporal
 
-```
-📁 assets/img/proyecto-final/manufactura/
-   └── ensamble-final-01.jpg
-   └── ensamble-final-02.jpg
-   └── prueba-en-modelo.jpg
-```
+>![alt text](../assets/img/mecanico3.png)

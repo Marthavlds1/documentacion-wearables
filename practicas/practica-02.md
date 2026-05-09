@@ -116,17 +116,18 @@ Una vez completado el ensamblaje, se programó el microcontrolador para ejecutar
 
 Finalmente, se añadieron decoraciones florales y detalles de color para reforzar la temática del EDC 2025, logrando una pulsera funcional, cómoda y visualmente atractiva.
 
+### Paso a paso 
+>![](../assets/img/p21.jpeg)
+>![alt text](../assets/img/p22.jpeg)
+>![alt text](../assets/img/p23.jpeg)
 ---
 
 ## 5. Evidencia
 
-> 📷 Agrega fotos y el video del funcionamiento.
+> ![alt text](../assets/img/p24.jpeg)
+> <video controls src="../assets/img/p25.mp4" title="Title"></video>
 
-```html
-<div class="responsive-embed">
-  <iframe src="https://www.youtube.com/embed/TU_VIDEO_ID" allowfullscreen></iframe>
-</div>
-```
+
 
 ---
 

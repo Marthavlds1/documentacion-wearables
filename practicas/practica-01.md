@@ -69,8 +69,7 @@ Finalmente, se integró la parte estética recubriendo la estructura con tela sa
 > Agrega aquí un esquemático o fotografía del diagrama de circuito.
 
 ```
-assets/img/circuito1.jpeg
-
+> ![alt text](../assets/img/circuito1.jpeg)
 ```
 
 ---
